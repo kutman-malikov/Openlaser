@@ -1,0 +1,1 @@
+https://jlcpcb.com/blog/how-to-design-an-esp32-s3-development-board
